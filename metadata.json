@@ -1,0 +1,6 @@
+{
+  "name": "Eswari Organic Store",
+  "description": "Eswari Organic Store - Pure, Natural & Organic Foods in Madurai, Tamil Nadu. Explore our organic product catalogue and enquire via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
